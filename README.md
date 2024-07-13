@@ -1,2 +1,5 @@
-# shit-
-the shittiest programming language ever, slow and painful
+# shit++
+## the shittiest programming language ever, slow and painful
+
+### Why?
+cuz it's fun
