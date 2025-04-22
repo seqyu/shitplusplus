@@ -1,4 +1,4 @@
-![Shit++ logo](https://github.com/user-attachments/assets/92057fee-9100-4e84-b718-9f242bed7a29)
+![shitpp](https://github.com/user-attachments/assets/66bf8541-8dbf-470c-8f11-8996ffa86183)
 
 # shit++
 ## the shittiest programming language ever
